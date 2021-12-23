@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "365000067703",
+    "project_id": "faract-firebase-auth-app",
+    "storage_bucket": "faract-firebase-auth-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365000067703:android:2f8be25ff3c3b84d9d1472",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365000067703-cojddfa3bti3t0sh2f9el4a1oesrf2b4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseauth",
+            "certificate_hash": "abfcf83c7f50fc35b0ed4fcb38f79a5bf5b88c50"
+          }
+        },
+        {
+          "client_id": "365000067703-47n9aqcpe4nibmih67pgobmuqrqem67k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXk8aCoHsDP2bxwwTEhsFFOp8ffCTFNy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365000067703-47n9aqcpe4nibmih67pgobmuqrqem67k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
